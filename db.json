@@ -1,0 +1,84 @@
+{
+  "login": [
+    {
+      "name": "",
+      "id": 1
+    },
+    {
+      "name": "",
+      "id": 2
+    },
+    {
+      "name": "vinod shah",
+      "id": 3
+    },
+    {
+      "name": "vinod shah",
+      "id": 4
+    },
+    {
+      "name": "vinod shah",
+      "id": 5
+    },
+    {
+      "name": "",
+      "id": 6
+    },
+    {
+      "name": "",
+      "id": 7
+    },
+    {
+      "name": "",
+      "id": 8
+    },
+    {
+      "name": "vinod shah",
+      "id": 9
+    },
+    {
+      "name": "vinod shah",
+      "id": 10
+    },
+    {
+      "name": "vinod shah",
+      "id": 11
+    }
+  ],
+  "booking": [
+    {
+      "state": "New delhi",
+      "city": "magarpatta",
+      "option": "veg",
+      "bookingDate": "2023-12-20",
+      "numberOfMembers": 6,
+      "specialInstructions": "no",
+      "id": 1
+    },
+    {
+      "state": "Gujarat",
+      "city": "magarpatta",
+      "option": "veg",
+      "bookingDate": "2023-12-06",
+      "numberOfMembers": 5,
+      "specialInstructions": "ghg",
+      "id": 2
+    },
+    {
+      "state": "New delhi",
+      "city": "sanpada",
+      "option": "veg",
+      "bookingDate": "2023-12-12",
+      "numberOfMembers": 7,
+      "specialInstructions": "no",
+      "id": 3
+    }
+  ],
+  "tableData": [{
+    "ID" : 1,
+    "Branch" :"10, VRINDAVAN SOCIETY, ELLORA PARK, VADODARA - 390007, Gujarat, INDIA",
+    "Phone" :737474789,
+    "Contact": "Mr. Jay Shah"
+  }
+  ]
+}
